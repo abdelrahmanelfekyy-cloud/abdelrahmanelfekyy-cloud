@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elfeky</h1>
 
 <h3 align="center">
-Cloud & DevOps Engineer | AWS | Azure | Terraform | Docker | Kubernetes | Jenkins | GitOps | Linux
+Cloud & DevOps Engineer | AWS | Azure | Terraform | Docker | Kubernetes | Jenkins | GitOps | Linux | CI CD |
 </h3>
 
 <p align="center">
